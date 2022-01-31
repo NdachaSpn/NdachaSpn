@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NdachaSpn
-- 👀 I’m interested in data science and android development...
-- 🌱 I’m currently learning android development using kotlin under google android development scholarship..
+- 👀 I’m interested in data science and application development...
+- 🌱I am open to work if my profile excites you
 - 💞️ 
 - 📫 reach me @ simonndacha@gmail.com
 
